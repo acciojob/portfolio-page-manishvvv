@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+ body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        #skills, #projects {
+            margin-top: 20px;
+        }
+        #projects ul {
+            list-style-type: disc; /* Add bullets to the project list */
+            padding-left: 20px;
+        }
